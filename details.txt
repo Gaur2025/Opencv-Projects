@@ -1,0 +1,1 @@
+virtualenv-  opencvProjects (conda activate opencvProjects   / conda deactivate)
